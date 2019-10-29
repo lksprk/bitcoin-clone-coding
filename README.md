@@ -1,2 +1,3 @@
-# bitcoin-clone-coding
-blockchain coding practice made in NodeJS
+# Bitcoin-clone-coding
+
+Blockchain coding practice made in NodeJS
